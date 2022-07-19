@@ -1,1 +1,1 @@
-# stand_alone_deep_learning
+# Stand Alone Deep Learning
